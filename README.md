@@ -1,2 +1,2 @@
 # hello-world
-hello-world examole
+hello-world example
